@@ -1,0 +1,2 @@
+Ehhez a feladathoz a Cisco DevNet felületén indítottam el, egy Catalyst 8000-es Sandbox Switchet, így tudtam folyton tesztelni a kapcsolatot.
+A verziókezelővel még most ismerkedem, ezért a kódot a fejlesztés végén emeltem át Jupyter Notebookból a jelenlegi fájlba.
